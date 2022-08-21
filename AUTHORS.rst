@@ -45,8 +45,6 @@ Contributors
 
 * Pratyaksh Sharma <pratyaksh@me.com>
 
-* Aleksandar Dimitriev <dimitriev_a@yahoo.com>
-
 * Demyanov <artyom.demyanov96@gmail.com>
 
 * Yashu Seth <yashuseth2503@gmail.com>
